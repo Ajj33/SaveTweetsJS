@@ -1,6 +1,6 @@
 Save tweet into Local Storage - Project Scope:
 
-* The user can add new message submitting an html form.
+* The user can add new message by submitting an html form.
 
 * Messages are going to be saved into local storage.
 
